@@ -5,8 +5,13 @@
 
 ![](./gfx/hfc.jpg)
 
-1. [What ?](#what-)
-2. [Course Related Repos](#course-related-repos)
+1. [WARNING](#warning)
+2. [What ?](#what-)
+3. [Course Related Repos](#course-related-repos)
+
+# WARNING
+
+> All information in this repositiry is entirely or in part complete nonsense and my ramblings while struggling throught the work.
 
 # What ? 
 
