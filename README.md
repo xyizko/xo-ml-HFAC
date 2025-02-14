@@ -7,7 +7,9 @@
 
 1. [WARNING](#warning)
 2. [What ?](#what-)
-3. [Course Related Repos](#course-related-repos)
+3. [Course Related Workz](#course-related-workz)
+   1. [Repsitories](#repsitories)
+   2. [Spaces](#spaces)
 
 # WARNING
 
@@ -17,12 +19,21 @@
 
 > This repository has all my personal notes when taking the [`Hugging Face - Agents Course]`(https://huggingface.co/learn/agents-course/en/unit0/introduction)
 
-# Course Related Repos
+# Course Related Workz
 
 > These are repositories and other collateral generated while taking the course
+
+## Repsitories 
 
 Repo | Description
 :--: | :--:
 [`xo-ml-HFAgentsCourse-HFModelTest`](https://github.com/xyizko/xo-ml-HFAgentsCourse-HFModelTest) | Before gettin deep into the course this repo is for testing out the usage of teh HuggingFace API, which allows access to models that have the HF API enabled, note there are some models that dont even require an api and can be accessed directly with the hugging face client.
+
+## Spaces 
+
+```sh
+https://huggingface.co/xyizko
+```
+- Spaces that were made while taking this course
 
 
