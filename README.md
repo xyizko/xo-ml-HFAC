@@ -31,9 +31,8 @@ Repo | Description
 
 ## Spaces 
 
-```sh
-https://huggingface.co/xyizko
-```
+[`https://huggingface.co/xyizko`](https://huggingface.co/xyizko)
+
 - Spaces that were made while taking this course
 
 
