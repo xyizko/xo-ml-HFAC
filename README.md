@@ -15,6 +15,10 @@
 
 > All information in this repositiry is entirely or in part complete nonsense and my ramblings while struggling throught the work.
 
+# Certs 
+
+![](https://cdn-uploads.huggingface.co/production/uploads/noauth/Vq425qZJ8De8-odJeRAZY.webp)
+
 # What ? 
 
 > This repository has all my personal notes when taking the [`Hugging Face - Agents Course]`(https://huggingface.co/learn/agents-course/en/unit0/introduction)
