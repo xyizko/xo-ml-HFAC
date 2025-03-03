@@ -17,7 +17,8 @@
 
 # Certs 
 
-![](https://cdn-uploads.huggingface.co/production/uploads/noauth/Vq425qZJ8De8-odJeRAZY.webp)
+[![](https://cdn-uploads.huggingface.co/production/uploads/noauth/Vq425qZJ8De8-odJeRAZY.webp)](https://huggingface.co/spaces/agents-course/unit_1_quiz/discussions/80#67bf49445baf57a6b4f5b371)
+
 
 # What ? 
 
